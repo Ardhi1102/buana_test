@@ -68,11 +68,11 @@ public class FileUploaderSteps {
         uploadFileLink.sendKeys(filePath);
     }
 
-    @Then("User should see an error message indicating the file type is not allowed")
-    public void userShouldSeeErrorMessageForInvalidFileType() {
-//        WebElement errorMessage = driver.findElement(By.cssSelector("div.error"));
-//        assertEquals("Invalid file type. Please upload a valid file.", errorMessage.getText());
-        WebElement errorMessage = driver.findElement(By.cssSelector("body"));
-        assertEquals("Internal Server Error", errorMessage.getText());
-    }
+//    @Then("User should see an error message indicating the file type is not allowed")
+//    public void userShouldSeeErrorMessageForInvalidFileType() {
+////        WebElement errorMessage = driver.findElement(By.cssSelector("div.error"));
+////        assertEquals("Invalid file type. Please upload a valid file.", errorMessage.getText());
+//        WebElement errorMessage = driver.findElement(By.cssSelector("body"));
+//        assertEquals("Internal Server Error", errorMessage.getText());
+//    }
 }

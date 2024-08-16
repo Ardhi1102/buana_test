@@ -8,7 +8,6 @@ cucumber\Page\LandingPage.class
 cucumber\RunCucumberTest.class
 cucumber\Page\DisappearingElementsPage.class
 cucumber\StepDefinition\DisappearingElementSteps.class
-cucumber\Page\LoginPage.class
 cucumber\StepDefinition\FileUploaderSteps.class
 cucumber\util\WebDriverFactory.class
 cucumber\manager\FirefoxManager.class

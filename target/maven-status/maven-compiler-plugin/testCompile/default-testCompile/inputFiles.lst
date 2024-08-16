@@ -12,6 +12,5 @@ D:\herokuapp\buana_test\src\test\java\cucumber\RunCucumberTest.java
 D:\herokuapp\buana_test\src\test\java\cucumber\manager\BrowserManager.java
 D:\herokuapp\buana_test\src\test\java\cucumber\manager\RemoteManager.java
 D:\herokuapp\buana_test\src\test\java\cucumber\manager\FirefoxManager.java
-D:\herokuapp\buana_test\src\test\java\cucumber\Page\LoginPage.java
 D:\herokuapp\buana_test\src\test\java\cucumber\util\CreateDriver.java
 D:\herokuapp\buana_test\src\test\java\cucumber\StepDefinition\LoginSteps.java
